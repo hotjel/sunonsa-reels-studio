@@ -1,0 +1,35 @@
+# Local projects, uploaded footage, render results and dependency caches
+/.venv/
+/vendor/
+/data/
+__pycache__/
+*.py[cod]
+*.log
+*.zip
+.env
+.env.*
+
+# Keep the current employee manual, but no rendered videos or old exports
+/output/*
+!/output/pdf/
+/output/pdf/*
+!/output/pdf/수논사_릴스_스튜디오_직원매뉴얼.pdf
+
+# Retired overlay/template experiments are not part of the MOV-only app
+/효과 파일/
+/premiere/
+
+# Commit current checks, not generated fixtures, reports or migration scripts
+/tests/*
+!/tests/test_caption_typography.py
+!/tests/test_text_effects.py
+!/tests/http_mov_smoke.py
+!/tests/package_release.py
+
+# Current guide illustrations only
+/docs/*.png
+/docs/*.jpg
+/docs/*.json
+!/docs/text-effects-screen.jpg
+!/docs/text-effects-controls.jpg
+!/docs/text-style-sample.png

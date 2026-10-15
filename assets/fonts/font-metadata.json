@@ -1,0 +1,104 @@
+[
+  {
+    "file": "DoHyeon-Regular.ttf",
+    "names": {
+      "0": "Copyright 2018 The Do Hyeon Project Authors",
+      "1": "Do Hyeon",
+      "2": "Regular",
+      "6": "DoHyeon-Regular",
+      "13": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+      "14": "http://scripts.sil.org/OFL"
+    }
+  },
+  {
+    "file": "NanumSquareB.ttf",
+    "names": {
+      "0": "Copyright ⓒ 2016 NAVER Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+      "1": "NanumSquare Bold",
+      "2": "Regular",
+      "6": "NanumSquareB",
+      "13": "NAVER Corporation",
+      "14": "www.navercorp.com"
+    }
+  },
+  {
+    "file": "NanumSquareEB.ttf",
+    "names": {
+      "0": "Copyright ⓒ 2016 NAVER Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+      "1": "NanumSquare ExtraBold",
+      "2": "Regular",
+      "6": "NanumSquareEB",
+      "13": "NAVER Corporation",
+      "14": "www.navercorp.com"
+    }
+  },
+  {
+    "file": "NanumSquareNeo-dEb.ttf",
+    "names": {
+      "0": "Copyright © 2022 NAVER Corp. All rights reserved. Font Designed by Sandoll Inc.",
+      "1": "NanumSquare Neo ExtraBold",
+      "2": "Regular",
+      "6": "NanumSquareNeoTTF-dEb"
+    }
+  },
+  {
+    "file": "NanumSquareNeo-eHv.ttf",
+    "names": {
+      "0": "Copyright © 2022 NAVER Corp. All rights reserved. Font Designed by Sandoll Inc.",
+      "1": "NanumSquare Neo Heavy",
+      "2": "Regular",
+      "6": "NanumSquareNeoTTF-eHv"
+    }
+  },
+  {
+    "file": "NanumSquareRoundEB.ttf",
+    "names": {
+      "0": "Copyright ⓒ 2017 NAVER Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+      "1": "NanumSquareRound ExtraBold",
+      "2": "Regular",
+      "6": "NanumSquareRoundEB",
+      "13": "NAVER Corporation",
+      "14": "http://www.navercorp.com"
+    }
+  },
+  {
+    "file": "Bithumb Gothic Basic.ttf",
+    "names": {
+      "0": "Copyright © 2026 Bithumb Co.",
+      "1": "Bithumb Gothic",
+      "2": "Bold",
+      "3": "Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596;HAM;BithumbGothic-Basic;2026;FL842",
+      "4": "Bithumb Gothic Basic",
+      "5": "Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596",
+      "6": "BithumbGothic-Basic",
+      "7": "Bithumb Gothic",
+      "8": "Bithumb",
+      "9": "Ham Hyungwon",
+      "11": "http://www.bithumb.com",
+      "12": "http://www.bithumb.com",
+      "13": "Copyright © 2026, Bithumb Co., Ltd. (https://www.bithumb.com),\nwith Reserved Font Name \"Bithumb Gothic\".\n\nThis Font Software is based on Gmarket Sans.\n\nOriginal Font Copyright:\nCopyright © 2019, eBay Korea Co., Ltd. (www.gmarket.co.kr),\nwith Reserved Font Name \"Gmarket Sans Font\".\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.",
+      "14": "http://scripts.sil.org/OFL",
+      "17": "Basic"
+    }
+  },
+  {
+    "file": "Bithumb Gothic Original.ttf",
+    "names": {
+      "0": "Copyright © 2026 Bithumb Co.",
+      "1": "Bithumb Gothic",
+      "2": "Bold Italic",
+      "3": "Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596;HAM;BithumbGothic-Original;2026;FL842",
+      "4": "Bithumb Gothic Original",
+      "5": "Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596",
+      "6": "BithumbGothic-Original",
+      "7": "Bithumb Gothic",
+      "8": "Bithumb",
+      "9": "Ham Hyungwon",
+      "11": "http://www.bithumb.com",
+      "12": "http://www.bithumb.com",
+      "13": "Copyright © 2026, Bithumb Co., Ltd. (https://www.bithumb.com),\nwith Reserved Font Name \"Bithumb Gothic\".\n\nThis Font Software is based on Gmarket Sans.\n\nOriginal Font Copyright:\nCopyright © 2019, eBay Korea Co., Ltd. (www.gmarket.co.kr),\nwith Reserved Font Name \"Gmarket Sans Font\".\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.",
+      "14": "http://scripts.sil.org/OFL",
+      "17": "Original"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+DoHyeon-Regular.ttf
+Copyright 2018 The Do Hyeon Project Authors
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+http://scripts.sil.org/OFL
+
+NanumSquareB.ttf
+Copyright ⓒ 2016 NAVER Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
+NAVER Corporation
+www.navercorp.com
+
+NanumSquareEB.ttf
+Copyright ⓒ 2016 NAVER Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
+NAVER Corporation
+www.navercorp.com
+
+NanumSquareNeo-dEb.ttf
+Copyright © 2022 NAVER Corp. All rights reserved. Font Designed by Sandoll Inc.
+
+
+
+NanumSquareNeo-eHv.ttf
+Copyright © 2022 NAVER Corp. All rights reserved. Font Designed by Sandoll Inc.
+
+
+
+NanumSquareRoundEB.ttf
+Copyright ⓒ 2017 NAVER Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
+NAVER Corporation
+http://www.navercorp.com
+
+Official source: https://campaign.naver.com/nanumsquare_neo/

@@ -1,0 +1,62 @@
+[
+  {
+    "file": "NanumSquareEB.ttf",
+    "source": "https://campaign.naver.com/nanumsquare_neo/download/NaverNanumSquare.zip",
+    "sha256": "6608adc320ff8514630d04a53e16cc7a5d54f5cbdbe3769109f311dcb3b48f80"
+  },
+  {
+    "file": "NanumSquareB.ttf",
+    "source": "https://campaign.naver.com/nanumsquare_neo/download/NaverNanumSquare.zip",
+    "sha256": "f737d58294faec9c632189af3a2a3e48e49c03c0256de09db61e879e2857bfbf"
+  },
+  {
+    "file": "NanumSquareRoundEB.ttf",
+    "source": "https://campaign.naver.com/nanumsquare_neo/download/NaverNanumSquareRound.zip",
+    "sha256": "9e845fc35c5bc4a5b7ed59d85a1760059de5ce55b5e5a4d7535f7efa87695e39"
+  },
+  {
+    "file": "NanumSquareNeo-dEb.ttf",
+    "source": "https://campaign.naver.com/nanumsquare_neo/download/NaverNanumSquareNeo.zip",
+    "sha256": "3cedb3ee07aabd894f2c1ad4f0434739ecf28a870674ba73cff016057c764750"
+  },
+  {
+    "file": "NanumSquareNeo-eHv.ttf",
+    "source": "https://campaign.naver.com/nanumsquare_neo/download/NaverNanumSquareNeo.zip",
+    "sha256": "a2850a335d3211ef19b130d368c961ea11822b67e2b7332bd2de78a486f69005"
+  },
+  {
+    "file": "DoHyeon-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/dohyeon/DoHyeon-Regular.ttf",
+    "sha256": "35644be7f28e0a68a447b1f7af351dcde5674b870f24f7b5f43e26d00b4ab653"
+  },
+  {
+    "file": "DoHyeon-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/dohyeon/OFL.txt",
+    "sha256": "de5ff32211a4340b01477af39ee339d639438955e409f79b666d4b9207f3c92c"
+  },
+  {
+    "file": "GmarketSansTTFLight.ttf",
+    "source": "https://corp.gmarket.com/fonts/GmarketSansTTF.zip",
+    "sha256": "7e8e8c70349ed94acf3ea4c6962a56417fdfa0a8803bc6cf9dc36324d5656849"
+  },
+  {
+    "file": "GmarketSansTTFMedium.ttf",
+    "source": "https://corp.gmarket.com/fonts/GmarketSansTTF.zip",
+    "sha256": "c6b9a2c10bfdb55975948ce191f9cf638955b5cfdc99149969add5b579262fc1"
+  },
+  {
+    "file": "GmarketSansTTFBold.ttf",
+    "source": "https://corp.gmarket.com/fonts/GmarketSansTTF.zip",
+    "sha256": "ff7c354dd1a324e4cecc1223c4f71e74fa81be7027e0c7f6324c475909cacefc"
+  },
+  {
+    "file": "Bithumb Gothic Basic.ttf",
+    "source": "https://bithumbcorp.com/bithumb_gothic_ttf.zip",
+    "sha256": "8f4731d4450fa2326ba1299a67232d8c3e4cd71e3825a1b477cfc270b61868a2"
+  },
+  {
+    "file": "Bithumb Gothic Original.ttf",
+    "source": "https://bithumbcorp.com/bithumb_gothic_ttf.zip",
+    "sha256": "9a88be803d14738ae4ce2b81b9ccbb1ae9f6525baca3a754a8406cb39ca5373f"
+  }
+]

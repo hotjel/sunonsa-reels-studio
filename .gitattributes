@@ -1,0 +1,15 @@
+* text=auto eol=lf
+*.py text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+*.ttf binary
+*.ttc binary
+*.pdf binary
+*.png binary
+*.jpg binary
+assets/fonts/*.txt -text -whitespace
